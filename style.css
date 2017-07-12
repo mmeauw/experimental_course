@@ -1,0 +1,1110 @@
+
+
+body{
+	font-family: 'Roboto', sans-serif;
+
+}
+/*.parallax-container{
+	height: 400px;
+	margin-top: 40px;
+	margin-bottom: 130px;
+}*/
+
+
+
+
+/*=============================================================================================}*/
+
+#hero {
+  height: 800px;
+  overflow: hidden;
+  position: relative;
+}
+
+.layer {
+  background-position: bottom center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 800px;
+  position: fixed;
+  z-index: -1;
+}
+
+/*=============================================================================================}*/
+.experiment{
+	position: absolute;
+	width: 100%;
+	height: auto;
+	color: #222;
+	background-image: url("img/Experiment-copy.png");
+}
+
+
+
+
+
+
+
+/*=============================================================================================}*/
+
+
+
+
+.logo{
+	margin-top: 20px;
+	width: 170px;
+	margin-bottom: 20px;
+	
+}
+
+.figures{
+	width: 100%;
+}
+
+.logo2{
+	margin-top: 30px;
+	width: 200px;
+	margin-left:9%;
+}
+
+.logowhite{
+	margin-top: 8px;
+	width: 180px;ƒ
+}
+
+.link{
+	color: #000;
+	font-weight: 600;
+	text-decoration: underline;
+
+}
+
+h1{
+	font-size: 130px;
+	font-weight: 800;
+	margin-top: 220px;
+	color: #fff;
+	line-height: 100%;
+}
+
+h3{
+	font-size: 40px;
+	font-weight: 800;
+	line-height: 40px;
+}
+
+h2{
+	font-weight: 800;
+	background-color: #000;
+	color: #fff;
+	
+}
+
+h5 {
+  font-size: 1.64rem;
+  line-height: 110%;
+  margin-top: 0px !important;
+  margin-right: 0px !important;
+  margin-left: 45px !important;
+  margin-bottom: 10px !important;
+  font-weight: 800;
+}
+
+.white-text{
+	margin-left: 0px !important;
+	float: right;
+}
+
+.grey-text{
+	float: right;
+}
+
+.right{
+	margin-left: 30px;
+}
+
+footer .right{
+	font-size: 14px !important;
+	margin-left: 20px;
+}
+
+
+.price{
+	font-size: 40px;
+	font-weight: 800;
+	line-height: 40px;
+	margin-left: 40px;
+
+}
+
+
+
+.uan{
+	
+	background-color: #000;
+	color: #fff;
+	width: 90%;
+	font-size: 20px;
+	padding-left: 35px;
+	padding-right: 30px;
+	padding-top: 30px;
+	padding-bottom: 35px;
+	margin-bottom: 50px;
+	line-height: 25px;
+}
+
+.zag{
+	font-size: 40px;
+	line-height: 1;
+	font-weight: 800;
+	color: #fff;
+	margin-bottom: 15px !important;
+}
+
+
+
+h5{
+	color: #777;
+	margin-left: 45px;
+	font-size: 18px;
+	padding-top: 5px;
+}
+
+
+p{
+	font-size: 20px;
+	color: #777;
+}
+
+.description p {
+	font-size: 14px !important;
+}
+
+.pwhite{
+	color: #fff;
+}
+
+.plist{
+	font-size: 15px;
+	margin-top: 0px;
+	padding-left: 45px;
+}
+
+.collapsible-body {
+  display: none;
+  border-bottom: 0px;
+  box-sizing: border-box;
+  padding-left: 0rem;
+  padding-top: 0rem;
+}
+
+.collapsible{
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0px rgba(0, 0, 0, 0);
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 0px;
+  margin: 0rem 0rem 0;
+}
+
+.collapsible-header {
+  display: block;
+  cursor: pointer;
+  min-height: 0rem;
+  line-height: 3rem;
+  padding: 0rem;
+  background-color: #fff;
+  border-bottom: 0px solid #ddd;
+  color: #777;
+  font-size: 20px;
+}
+
+.list{
+	font-size: 15px;
+	color: #777;
+	margin-left: 45px;
+}
+
+
+
+.nospace{
+	margin-bottom: 0px;
+}
+
+
+#registration{
+	margin-top: 0px;
+}
+
+
+.foto1{
+	background-image: url("img/1.jpeg");
+	background-size: cover;
+	height: 300px;
+}
+
+.foto2{
+	background-image: url("img/2.jpeg");
+	background-size: cover;
+	height: 300px;
+}
+
+.foto3{
+	background-image: url("img/3.jpeg");
+	background-size: cover;
+	height: 300px;
+}
+
+.foto4{
+	background-image: url("img/4.jpeg");
+	background-size: cover;
+	height: 300px;
+}
+
+.data{
+	font-size: 16px;
+	color: #777;
+}
+
+.page-footer {
+  padding-top: 20px;
+  background-color: #000;
+  margin-bottom: -20px;
+}
+
+.row.niz{
+	margin-top: 0px !important;
+	max-width: 83% !important;
+	min-height: 50px;
+	padding: 15px 0px;
+}
+
+.row.niz .col{
+ 	padding: 0px;
+}
+
+.container.bot{
+}
+
+
+.footer-cop{
+	background-color: #222 !important;
+}
+
+.btn{
+	line-height: 6px;
+	padding: 15px;
+	font-size: 12px;
+	float: right;
+}
+
+.card .card-action{
+	padding-top: 0px;
+	border-top: 0px;
+}
+
+.card .card-content{
+	padding-top: 24px;
+	padding-left: 24px;
+	padding-right: 15px;
+	padding-bottom: 0px;
+}
+
+.card-action{
+	height: 60px;
+}
+
+.btn-large{
+	float: right;
+	margin-bottom: 50px;
+}
+
+.modal .modal-content {
+  padding: 40px;
+}
+
+
+.niz{
+	color: #fff;
+	font-size: 14px;
+}
+
+
+.Content {
+  height: 270px;
+  margin: -135px 0 0 0;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+}
+
+.List {
+  display: flex;
+  list-style: none;
+  margin: 10px auto;
+  padding: 0px;
+  
+  height: 210px;
+}
+
+.List-item {
+  float: left;
+  width: 210px;
+}
+
+.Title {
+  text-align: center;
+}
+
+
+
+ /* label color */
+   .input-field label {
+     color: #666;
+   }
+   /* label focus color */
+   .input-field input[type=text]:focus + label {
+     color: #000;
+   }
+   /* label underline focus color */
+   .input-field input[type=text]:focus {
+     border-bottom: 1px solid #000;
+     box-shadow: 0 1px 0 0 #000;
+   }
+
+
+      /* label focus color */
+   .input-field input[type=tel]:focus + label {
+     color: #000;
+   }
+   /* label underline focus color */
+   .input-field input[type=tel]:focus {
+     border-bottom: 1px solid #000;
+     box-shadow: 0 1px 0 0 #000;
+   }
+  
+ /* label focus color */
+   .input-field input[type=email]:focus + label {
+     color: #000;
+   }
+   /* label underline focus color */
+   .input-field input[type=email]:focus {
+     border-bottom: 1px solid #000;
+     box-shadow: 0 1px 0 0 #000;
+   }
+
+.text-lighten-3{
+	text-align: right;
+}
+
+/*.intro{
+	background-image: url("img/FB_Post.jpg");
+	background-size: cover;
+	height: 800px;
+	margin-top: 0px !important;
+}*/
+
+div.row.intro{
+	/*background-color: #000;*/
+	margin-top: 20px;
+}
+
+
+.parallax-container {
+  min-height: 900px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+  /*background-image: url("img/figures.png");*/
+  	background-size: cover;
+  	background-position: center;
+}
+
+
+  .parallax-container .section {
+    width: 70%;
+  }
+
+  .parallax-container .parallax {
+    width: 100%;
+  }
+
+.card-image img{
+	width: 100%;
+	height: 
+}
+
+
+
+.container > .row .col {
+	padding: 0px;
+
+}
+
+footer .container .row .col {
+	padding: 10px;
+
+}
+
+
+
+.row{
+	margin-top: 90px;
+	margin-bottom: 90px;
+}
+
+
+.row.intro{
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.row.foto{
+	margin-top: 90px;
+}
+
+.row.school{
+	margin-top: 80px;
+	margin-bottom: 90px !important;
+
+}
+
+
+
+.container {
+	width: 100% ;
+	max-width: 100% !important;
+	
+}
+
+.container .row{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.card {
+	margin-bottom: 8% ;
+}
+
+.reg{
+	color: #999;
+	font-size: 15px;
+}
+
+.page-footer .container{
+	max-width: 83% !important;
+}
+
+
+/*.page-footer .ad {
+	margin-bottom: 20px;
+}
+
+.page-footer p {
+	font-size: 16px;
+	margin: 0;
+}
+
+.page-footer p.white-text {
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding-top: 10px;
+}*/
+
+.dropdown-content li>span{
+	color: #888;
+	background-color: #;
+}
+
+.card .card-content .card-title {
+	font-weight: 400;
+}
+
+.social {
+	font-size: 1.3rem;
+    margin-top: -5px;
+}
+
+.page-footer .row{
+	margin-bottom: 20px !important;
+}
+
+ul{
+	padding-left: 0px;
+
+}
+
+footer .container .row .col.xl3{
+	padding-left: 40px;
+}
+
+.inbottom {
+	color: #fff;
+	font-size: 12px;
+}
+
+a.cop-text-right{
+	color: #fff;
+	margin-left: 20px;
+	float: right;
+}
+
+a.cop-text-left{
+	color: #fff;
+	float: left;
+}
+
+.niz {
+	background-color: #222;
+}
+
+.card .card-title{
+	line-height: 30px;
+}
+
+}
+
+
+/* ============================================== */
+@media screen and (max-width: 1600px) {
+
+.card .card-content .card-title{
+	font-size: 24px !important;
+
+}
+
+.logo2{
+	margin-left: 6%;
+}
+
+.right{
+	font-size: 24px;
+}
+
+}
+
+@media screen and (max-width: 1550px) {
+
+.card .card-content .card-title{
+	font-size: 21px !important;
+	line-height: 29px;
+}
+
+.right{
+	font-size: 21px;
+}
+}
+
+
+@media screen and (max-width: 1500px) {
+
+.card .card-content .card-title{
+	font-size: 20px !important;
+	line-height: 27px;
+}
+}
+
+@media screen and (max-width: 1500px) {
+
+.card .card-content .card-title{
+	font-size: 14px !important;
+	line-height: 20px;
+}
+
+.parallax-container .container {
+	width: 100%;
+
+}
+
+.logo2{
+	margin-left: 7%;
+}
+
+
+
+   h1{
+	font-weight: 800;
+	margin-top: 220px;
+	}
+
+
+}
+
+@media screen and (max-width: 1320px) {
+
+.card .card-content .card-title{
+	font-size: 16px !important;
+	line-height: 23px;
+}
+
+.logo2{
+	width: 200px;
+	margin-left: 6%;
+}
+}
+
+@media screen and (max-width: 1200px) {
+	h3{
+	font-size: 35px;
+	font-weight: 800;
+	line-height: 35px;
+	}
+
+h1{
+	font-size: 100px;
+	font-weight: 800;
+	margin-top: 190px;
+	}
+
+
+.aboutteacher{
+	color: #fff;
+	padding-top: 80px !important;
+	padding-left: 100px !important;
+	padding-right: 100px !important;
+	padding-bottom: 100px !important;
+	
+}
+
+.card .card-content .card-title{
+	font-size: 14px !important;
+	line-height: 21px;
+}
+
+.parallax-container {
+	 	min-height: 600px;
+	 }
+
+}
+
+@media only screen and (max-width : 992px) {
+
+	 .parallax-container {
+	 	min-height: 600px;
+	 }
+
+	 .uan{
+	width: 100% !important;
+	
+}
+
+
+  .parallax-container .section {
+    position: absolute;
+    top: 25%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+
+ h1{
+ 	font-size: 95px;
+	font-weight: 800;
+	margin-top: 190px;
+	}
+
+}
+
+@media screen and (max-width: 990px) {
+
+.card .card-content .card-title{
+	font-size: 21px !important;
+	line-height: 27px;
+}
+}
+
+@media screen and (max-width: 930px) {
+
+.card .card-content .card-title{
+	font-size: 19px !important;
+	line-height: 25px;
+}
+}
+
+
+@media screen and (max-width: 900px) {
+    h1{
+	font-size: 90px;
+	font-weight: 800;
+	margin-top: 200px;
+	}
+
+	.uan{
+	width: 100% !important;
+	
+}
+
+	h3{
+	font-size: 35px;
+	font-weight: 800;
+	line-height: 35px;
+	}
+
+	.parallax-container .container {
+	width: 90%;
+
+}
+
+	.right{
+		font-size: 21px !important;
+	}
+
+	.aboutteacher{
+	color: #fff;
+	padding-top: 60px !important;
+	padding-left: 50px !important;
+	padding-right: 50px !important;
+	
+}
+.logo2{
+	
+	margin-left: 5%;
+}
+
+.card .card-content .card-title{
+	font-size: 17px !important;
+	line-height: 23px;
+}
+
+.teoria{
+	color: #000;
+	font-size: 20px;
+	padding-top: 40px;
+	margin-left: 68px;
+}
+
+.practica{
+	color: #000;
+	font-size: 20px;
+	padding-top: 40px;
+	margin-left: 56px;
+}
+
+.right{
+	font-size: 12px;
+	margin-left: 10px;
+}
+
+.inbottom{
+	font-size: 12px !important;
+	color: #fff !important;
+}
+
+}
+
+
+@media screen and (max-width: 800px) {
+ h1{
+	font-size: 85px;
+	font-weight: 800;
+	margin-top: 200px;
+	}
+
+	.logo2{
+
+	margin-left: 1%;
+}
+
+.uan{
+	width: 100% !important;
+	
+}
+
+
+.parallax-container .container {
+	width: 80%;
+	min-height: 500px;
+
+}
+
+
+@media screen and (max-width: 780px) {
+ h1{
+	font-size: 85px;
+	font-weight: 800;
+	margin-top: 200px;
+	}
+
+	.parallax-container .container {
+	width: 80%;
+
+}
+
+.logo2{
+	width: 200px;
+	margin-left: 1%;
+}
+
+}
+
+
+@media screen and (max-width: 720px) {
+
+.card .card-content .card-title{
+	font-size: 19px !important;
+	line-height: 25px;
+}
+
+
+.parallax-container {
+	 	min-height: 500px;
+	 }
+
+.parallax-container .container {
+	width: 80%;
+
+}
+
+h1{
+	font-size: 80px;
+	font-weight: 800;
+	margin-top: 180px;
+	}
+
+/*p.white-text {
+	float: left;
+	width: 100%;
+}
+.page-footer .grey-text {
+	float: left;
+}
+.footer-copyright {
+	text-align: center;
+}
+.social {
+    margin-top: 5px;
+}*/
+
+
+}
+
+@media screen and (max-width: 700px) {
+
+.card .card-content .card-title{
+	font-size: 15px !important;
+	line-height: 20px;
+}
+
+.uan{
+	width: 100% !important;
+	
+}
+
+
+
+}
+
+@media screen and (max-width: 670px) {
+
+.card .card-content .card-title{
+	font-size: 12px !important;
+	line-height: 18px;
+}
+
+h1{
+	font-size: 75px;
+	font-weight: 800;
+	margin-top: 180px;
+	}
+
+.logo2{
+	width: 180px;
+	margin-left: 1%;
+}
+
+
+h5{
+	margin-bottom: 3px !important;
+	text-align: right; 
+	font-size: 18px;
+}
+
+.logowhite{
+	width: 150px;
+}
+
+  .grey-text{
+	float: right;
+	font-size: 14px !important;
+	line-height: 15px;
+}
+
+   .grey-text.adres{
+	float: right;
+	font-size: 14px !important;
+	line-height: 15px;
+}
+
+
+}
+
+@media only screen and (max-width : 625px) {
+	h1{
+	font-size: 70px;
+	font-weight: 800;
+	margin-top: 180px;
+	}
+}
+
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+
+.parallax-container .container {
+	width: 80%;
+
+}
+
+.logo2{
+	width: 150px;
+	margin-left: 2%;
+}
+
+.uan{
+	width: 100% !important;
+	
+}
+
+
+
+h1{
+	font-size: 70px;
+	font-weight: 800;
+	margin-top: 180px;
+	}
+
+
+  .grey-text.adres{
+	float: right;
+	font-size: 14px !important;
+}
+
+.inbottom{
+	font-size: 12px !important;
+	color: #fff !important;
+}
+
+footer .right{
+	font-size: 14px !important;
+}
+
+
+.card .card-content .card-title{
+	font-size: 24px !important;
+	line-height: 32px;
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+a.cop-text-right{
+	color: #fff;
+	margin-left: 0px;
+	margin-right: 35px;
+	float: left !important;
+	margin-top: 5px;
+}
+
+
+.logo{
+	margin-top: 15px;
+	width: 150px;
+	margin-bottom: 15px;
+	
+}
+
+
+	}
+
+@media only screen and (max-width : 525px) {
+h1{
+	font-size: 65px;
+	font-weight: 800;
+	margin-top: 180px;
+	}
+
+	.link{
+	margin-top: 15px;
+	float: center !important;
+}
+
+}
+
+
+
+	@media only screen and (max-width : 500px) {
+
+footer .right{
+	font-size: 14px !important;
+}
+
+.link{
+	margin-top: 15px;
+}
+
+.inbottom{
+	font-size: 12px !important;
+	line-height: 12px;
+	color: #fff !important;
+}
+
+
+h1{
+	font-size: 70px !important;
+	font-weight: 800;
+	margin-top: 160px !important;
+
+	}
+
+	 .grey-text{
+	float: right;
+	font-size: 13px !important;
+	line-height: 13px;
+}
+
+h5{
+	font-size: 16px;
+}
+
+a.cop-text-right{
+	color: #fff;
+	margin-left: 0px;
+	margin-right: 35px;
+	float: left !important;
+	margin-top: 5px;
+}
+
+a.cop-text-left{
+	color: #fff;
+	float: left;
+
+}
+
+ul{
+	background-color: #000;
+	margin-before: 0px;
+	margin-top: 5px;
+}
+
+
+	}
+
+		@media only screen and (max-width : 500px) {
+
+h1{
+	font-size: 60px !important;
+	font-weight: 800;
+	margin-top: 160px !important;
+
+	}
+
+		}
+
+
+
